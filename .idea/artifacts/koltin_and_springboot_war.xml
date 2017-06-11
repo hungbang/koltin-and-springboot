@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="koltin-and-springboot:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="koltin-and-springboot-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="koltin-and-springboot:war exploded" />
+    </root>
+  </artifact>
+</component>
